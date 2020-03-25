@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 html, body {
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 80%;
+    height: 100%;
   }
-=======
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 80%;
+
+  .main{
+    width: 70%;
+    height:70%;
+    margin: 200px auto;
   }
->>>>>>> 2e7dd5f51ee496edb622110ea9996d5b25cfb7f1
