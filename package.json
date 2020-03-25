@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LiuXinmeng0508/component/issues"
   },
-  "homepage": "https://github.com/LiuXinmeng0508/component#readme"
+  "homepage": "https://github.com/LiuXinmeng0508/component#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
