@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/LiuXinmeng0508/component#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "@handsontable/react": "^3.1.2",
+    "echarts": "^4.7.0",
+    "express": "^4.17.1",
+    "handsontable": "^7.4.2"
   }
 }
