@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- var data = [
+var data = [
       ['Java', '1', '降', '-0.01%'],
       ['C', '2', '升', '+2.44%'],
       ['Python', '3', '升', '+1.41%'],
@@ -48,7 +47,6 @@
         }]
     };
     myChart.setOption(option);
-=======
 
     var data = [
       ['Java', '1', '降', '-0.01%'],
@@ -100,5 +98,4 @@
     };
     myChart.setOption(option);
 
-  
->>>>>>> 2e7dd5f51ee496edb622110ea9996d5b25cfb7f1
+
